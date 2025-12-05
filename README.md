@@ -1,6 +1,6 @@
 # Programming Exercises (Java)
 
-Dieses Repository enthält meine Übungen und Lernprojekte in Java und teilweise auch in Python.  
+Dieses Repository enthält meine Übungen und Lernprojekte in Java.
 Ich nutze dieses Repo, um meine Grundlagen in Programmierung, OOP und Algorithmen zu festigen.
 
 ## 📚 Inhalte
