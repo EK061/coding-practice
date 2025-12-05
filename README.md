@@ -1,4 +1,4 @@
-# Programming Exercises (Java & Python)
+# Programming Exercises (Java)
 
 Dieses Repository enthält meine Übungen und Lernprojekte in Java und teilweise auch in Python.  
 Ich nutze dieses Repo, um meine Grundlagen in Programmierung, OOP und Algorithmen zu festigen.
@@ -9,10 +9,6 @@ Ich nutze dieses Repo, um meine Grundlagen in Programmierung, OOP und Algorithme
 - **basics/** – Erste Programme, Variablen, Datentypen, Schleifen
 - **oop/** – Klassen, Objekte, Vererbung, Konstruktoren
 - **algorithms/** – Sortier- und Suchalgorithmen
-
-### Python (optional)
-- **basics/** – kleine Einstiegsübungen
-- **small-scripts/** – kurze Automatisierungsskripte
 
 ## 🎯 Ziel
 Dieses Repository dient der Übung und dem Lernen.  
